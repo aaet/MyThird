@@ -1,2 +1,3 @@
 After creating sshKey
 User2 has changed this file.
+Line from User1
