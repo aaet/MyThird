@@ -5,3 +5,4 @@ Line from User1
 Some new feature
 I've done any changing for testing REBASE command
 second attempt changing from User1 - lesson REBASE
+Changing on the same row from master.
