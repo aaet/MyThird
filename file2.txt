@@ -1,3 +1,4 @@
 Good day!
 I have fixed the code bug!
 Line from User2
+Some changing from master about talking rebase command"
