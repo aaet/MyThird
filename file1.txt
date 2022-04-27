@@ -4,3 +4,4 @@ Changing from User1.
 Line from User1
 Some new feature
 I've done any changing for testing REBASE command
+second attempt changing from User1 - lesson REBASE
